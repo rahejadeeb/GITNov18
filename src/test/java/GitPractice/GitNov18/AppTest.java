@@ -20,6 +20,12 @@ public class AppTest {
     }
     
     
+    @Test
+    public void methodThree() {
+       System.out.println("hello from method three");
+    }
+    
+    
     
     
     
