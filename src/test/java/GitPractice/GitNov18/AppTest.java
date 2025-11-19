@@ -14,6 +14,15 @@ public class AppTest {
        System.out.println("hello");
     }
     
+    @Test
+    public void methodTwo() {
+       System.out.println("hello from method two");
+    }
+    
+    
+    
+    
+    
     
     
     
